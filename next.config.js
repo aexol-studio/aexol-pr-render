@@ -1,5 +1,9 @@
 module.exports = {
-  exportPathMap: function () {},
+  exportPathMap: function () {
+    const paths = {
+      "/": { page: "/" },
+    };
+    return paths;
+  },
   distDir: "build",
-  output: "export",
 };
