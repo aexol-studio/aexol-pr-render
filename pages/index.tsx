@@ -1,8 +1,8 @@
 import Head from "next/head";
-import Header from "@components/Header";
 import { apps } from "../data/appsData";
 import { tools } from "../data/saasData";
 import { oses } from "../data/osData";
+import Header from "@/components/Header";
 
 export default function Home() {
   return (
