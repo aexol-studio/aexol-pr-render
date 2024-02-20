@@ -4,7 +4,7 @@ Welcome to the "Hello World" application, built with Next.js and proudly hosted 
 
 # About Aexol
 
-We're [Aexol](https://aexol.com), a technology-first company's best friend. We love building mobile apps, web apps, SaaS tools, open-source & blazingly fast ecommerece solutions based on Vendure!
+We're [Aexol](https://aexol.com), a technology-first company's best friend. We love building mobile apps, web apps, SaaS tools, open-source & blazingly fast ecommerece solutions based on Vendure!!
 
 ## Getting Started
 
